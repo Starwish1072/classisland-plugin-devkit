@@ -70,3 +70,5 @@ set CLASSISLAND_DIR=D:\你的\ClassIsland
 ## 许可证
 
 MIT
+
+Starwish1072 ©2026
