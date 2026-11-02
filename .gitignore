@@ -1,0 +1,4 @@
+classisland.env
+*.user
+bin/
+obj/
