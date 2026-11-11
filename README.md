@@ -71,7 +71,7 @@ set CLASSISLAND_DIR=D:\你的\ClassIsland
 
 MIT
 
-Starwish1072 ©2026
+©2026 Starwish1072
 
 ## 作者
 
